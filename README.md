@@ -22,7 +22,7 @@
 
 
 # About Blekwer
-Blekwer is a Remote Administration Tool (RAT) written in Python
+Blekwer is a Remote Administration Tool (RAT) written in Python using sockets.
 
 ## License
 
